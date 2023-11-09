@@ -3,10 +3,10 @@ import os
 
 # Set your GitHub username and access token
 github_username = "USE Yours"
-github_access_token = "ghp_mdjlikgrpod;khgpdkhsdkhwj7"
+github_access_token = "ghp_mdjgahshgsgdjdhdgsjjs7"
 
 # Set the source GitHub account and branch
-source_username = "praveen1994dec"
+source_username = "praveen"
 branch = "main"
 
 # Set the target GitHub account
