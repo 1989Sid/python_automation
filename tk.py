@@ -3,7 +3,7 @@ import os
 
 # Set your GitHub username and access token
 github_username = "1989Sid"
-github_access_token = "ghp_msghfdytsfdhstfdhadada7"
+github_access_token = "ghp_msghfa7"
 
 # Set the source GitHub account and branch
 source_username = "praveen1994dec"
