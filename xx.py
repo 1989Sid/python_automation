@@ -31,9 +31,9 @@ def push_to_repo(local_repo_path, target_repo_url):
     os.system(f'cd {local_repo_path} && git remote add target {target_repo_url} && git push target --all')
 
 # GitHub username and access token
-source_username = 'iam-veeramalla'
-target_username = '1989Sid'
-github_access_token = 'ghp_mx6546btr464drb64d64gb6dkhwj7'
+source_username = 'put source user name'
+target_username = 'ur user Id'
+github_access_token = 'ghp_mxgshdhgdhdhdss7'
 
 # Get repositories from source user
 repos = get_repos(source_username, github_access_token)
